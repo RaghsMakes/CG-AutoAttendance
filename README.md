@@ -2,10 +2,11 @@
 
 Needed items:
   a device to push "signout from attendance" in my case that's my google home,
-  Raspberry PI (any versions) in my case 3b+, 
+    Raspberry PI (any versions) in my case 3b+.
   a wifi router ur pc and rpi to connected it the same network. 
-  (If you dont have that u could port forward and have a static ip or use noip)
-  a pc .
+    (If you dont have that u could port forward and have a static ip or use noip).
+  
+  a pc
 
 Prequstics:
 
