@@ -3,7 +3,7 @@
 from pushbullet import Pushbullet
 from wakeonlan import send_magic_packet
 import time
-pb = Pushbullet("o.tSYjEysTODhMAp7os4DuTYZ08s9WHTkD")
+pb = Pushbullet("*******************")
 
 # Forever LOOP
 while (1 == 1):
