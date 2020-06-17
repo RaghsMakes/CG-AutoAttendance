@@ -14,13 +14,14 @@ Needed items:
 Prequstics:
 
 Install Pushbullet,wakeonlan using
-  pip install pushbullet.py
-  pip install wakeonlan
-Turn on wake on lan in your pc
+  "pip install pushbullet.py"
+  "pip install wakeonlan"
+"Turn on wake on lan in your pc"
 
 Add RPI script to cron on it. So, that it could start automatically and run in background.
 
 REMEMBER: pushbullet has ratelimit. So, continuous get and post may stop it working.
           But dont worry. It will start working again in nearly an hour.
+          If you have any doubts or issues definitly there will be a indian video on youtube follow it. ;P
           
                                               HAVE FUN!
