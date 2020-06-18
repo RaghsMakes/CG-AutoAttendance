@@ -3,10 +3,10 @@
 from pushbullet import Pushbullet
 from wakeonlan import send_magic_packet
 import time
-pb = Pushbullet("o.tSYjEysTODhMAp7os4DuTYZ08s9WHTkD")
+pb = Pushbullet("YOUR PUSGBULLET API KEY")
 
 # Forever LOOP
-while (1 == 1):
+while (true):
     # To wait sometime before another get. because PB has ratelimit.
     time.sleep(15)
     pushes = pb.get_pushes()
